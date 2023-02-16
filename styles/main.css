@@ -177,9 +177,9 @@ header {
     font-family: 'Open Sans';
     background-color: #F37335;
     font-weight: 600;
-    font-size: 20px;
-    width: 95px;
-    height: 28px;
+    font-size: 14px;
+    padding: 5px 0;
+    max-width: 96px;
     border-radius: 14px; 
     text-align: center;
     text-transform: uppercase;
@@ -207,5 +207,5 @@ header {
     text-transform: uppercase;
     text-decoration: none;
     width: 170px;
-    height: 58px;
+    padding: 20px 27px;
 }
